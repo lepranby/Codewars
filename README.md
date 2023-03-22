@@ -1,4 +1,4 @@
-# homeworkk_from_codewars
+# Kata's
 Here is my 5th homework from courses of iOS Development. All tasks is from Codewars.
 
 Tasks:
